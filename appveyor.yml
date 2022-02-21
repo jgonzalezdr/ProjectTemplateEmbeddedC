@@ -1,5 +1,9 @@
 version: 1.0.0-{build}
 
+branches:
+  except:
+    - unpopulated # Remove
+
 environment:
   matrix:
   - Platform: LINUX-GCC

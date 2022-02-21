@@ -14,7 +14,7 @@ if( BUILD_TESTING )
     #
 
     #>>> Add all the subdirectories with your test modules
-    add_subdirectory( ExampleModule )
-    add_subdirectory( main )
+    #add_subdirectory( ExampleModule )
+    #add_subdirectory( main )
 
 endif()

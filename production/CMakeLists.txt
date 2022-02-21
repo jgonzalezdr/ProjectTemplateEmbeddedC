@@ -18,8 +18,8 @@ endif( MSVC )
 
 #>>> Add your source files to the following list
 set( SRC_LIST
-     sources/ExampleModule.c
-     sources/main.c
+#     sources/ExampleModule.c
+#     sources/main.c
 )
 
 #
@@ -28,8 +28,8 @@ set( SRC_LIST
 
 #>>> Add your header files to the following list
 set( INC_LIST
-     sources/ExampleModule.h
-     include/ExamplePeripheral.h
+#     sources/ExampleModule.h
+#     include/ExamplePeripheral.h
 )
 
 #

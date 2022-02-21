@@ -36,8 +36,6 @@ This repository is just a template for an embedded project which at least its un
 
 9. Edit `test/CMakeLists.txt` and add all the subdirectories for your tests.
 
-10. Delete all example files and directories from the `test/` and `production/` directories.
-
 11. Replace `LICENSE.txt` with your project's license file.
 
 12. Create a build directory under the top directory (e.g. `build/`), and inside it execute `cmake .. G "<GeneratorOfYourChoice>"` (add any other configuration options that you like).
