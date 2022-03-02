@@ -1,8 +1,8 @@
-
 CMake Embedded Project Template
 ===========
 [![Build status](https://ci.appveyor.com/api/projects/status/7hr9hgjg3qknrsed/branch/main?svg=true)](https://ci.appveyor.com/project/jgonzalezdr/projecttemplateembeddedc/branch/main)
 [![codecov](https://codecov.io/gh/jgonzalezdr/ProjectTemplateEmbeddedC/branch/main/graph/badge.svg)](https://codecov.io/gh/jgonzalezdr/ProjectTemplateEmbeddedC)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjgonzalezdr%2FProjectTemplateEmbeddedC.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjgonzalezdr%2FProjectTemplateEmbeddedC?ref=badge_shield)
 ## About
 
 This repository is just a template for an embedded project which at least its unit tests are built using [CMake](https://cmake.org/), and using [cpputest](http://cpputest.github.io/) for unit test execution.
@@ -69,3 +69,7 @@ This repository is just a template for an embedded project which at least its un
 - On Linux:
   - [GCC](https://gcc.gnu.org/) (tested with v7.5.0, v8.4.0 and v9.3.0)
   - [LCOV](http://ltp.sourceforge.net/coverage/lcov.php) [Optional, needed if tests and coverage are enabled using GCC] (tested with v1.14)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjgonzalezdr%2FProjectTemplateEmbeddedC.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjgonzalezdr%2FProjectTemplateEmbeddedC?ref=badge_large)
